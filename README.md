@@ -10,7 +10,7 @@
 
 *A comprehensive, enterprise-grade contract lifecycle management platform built with modern web technologies*
 
-[🚀 Live Demo](https://lovable.dev/projects/6392f85b-671f-48d4-82ad-8cbf450ef07c) • [📖 Documentation](#documentation) • [🛠️ Installation](#installation) • [🤝 Contributing](#contributing)
+[🚀 Live Demo](https://contracts-4.vercel.app/) • [📖 Documentation](#documentation) • [🛠️ Installation](#installation) • [🤝 Contributing](#contributing)
 
 </div>
 
